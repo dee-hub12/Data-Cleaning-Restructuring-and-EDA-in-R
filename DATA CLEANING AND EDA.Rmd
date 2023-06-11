@@ -19,7 +19,6 @@ library(lattice)
 
 ## LOADING AND CLEANING DATA
 ```{r}
-setwd("C:/Users/ANONYMOUS/Desktop/project") 
 load("census.RData")
 dim(census)
 ```
